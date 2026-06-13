@@ -1,0 +1,11 @@
+venv/
+.venv/
+__pycache__/
+backend/__pycache__/
+backend/temp/
+err.log
+err.txt
+test_pdf.py
+test_report.py
+test_predict.py
+.DS_Store

@@ -1,0 +1,8 @@
+Timestamp,URL,Result,Risk Score
+2026-04-01 08:19:35,http://www.bankpaypal.login.com,Phishing,76.00%
+2026-04-01 08:31:54,http://www.secure.update.bankofamerica.com.login.verify.xyz/auth/verify?id=99,Phishing,100.00%
+2026-04-01 08:41:50,https://example.com,Safe,0.00%
+2026-04-01 08:51:18,hhtp://bank.login.com,Safe,1.00%
+2026-04-01 10:05:29,ttp://www.secure.update.bankofamerica.com.login.verify.xyz/auth/verify?id=99,Phishing,85.00%
+2026-06-13 20:43:42,http://login-update-paypal.com@192.168.1.1/login.php?client=123,Phishing,100.00%
+2026-06-13 20:47:52,"http://www,fdfuiehvf!=ndsioffvnboaki.com",Phishing,81.00%
